@@ -1,0 +1,14 @@
+uuid: 1c5209f3-e098-4a71-9ef4-0f9f7a532d98
+name: Drupal
+mail: commerce@admin.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: ru
+default_langcode: ru
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
